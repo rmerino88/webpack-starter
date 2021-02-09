@@ -14,3 +14,7 @@ Y para crear nuevamente el DIST
 ```
 npm start
 ```
+
+Realizamos un pequeño cambio para jugar con GIT
+
+Realizamos otro pequeño cambio
