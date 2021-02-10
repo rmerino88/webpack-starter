@@ -19,4 +19,4 @@ Realizamos un pequeño cambio para jugar con GIT
 
 Realizamos otro pequeño cambio
 
-realizo un pequeño cambio desde github
+Realizo un pequeño cambio desde github
